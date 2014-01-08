@@ -1,0 +1,124 @@
+PLANNED  REVISIONS
+(as of 01/03/2010)
+
+
+-------Development Releases-------
+
+Version 0.1.0
+- Text based version (Done 01/03/2010).
+
+
+Version 0.2.0
+- Start adding GUI for the Game side (Done 01/03/2010).
+
+
+Version 0.3.0
+- Positioning of words in the Game Panel (Done 01/03/2010).
+
+Version 0.3.1
+- Mouse highlighting events (Done 01/03/2010).
+
+Version 0.3.2
+- Error Pop-ups (Done 02/03/2010).
+
+Version 0.3.3
+- Sound inclusion (Delayed to Version 0.7.0).
+
+
+Version 0.4.0
+- Main Menu added (Done 02/03/2010).
+
+Version 0.4.1
+- Loading of a game (not running through editor every time) (Done 02/03/2010).
+
+Version 0.4.2
+- Loading GUI (Done 02/03/2010).
+- Note: Some graphical issues with the Main Menu because of this.
+
+Version 0.5.0
+- Simple GUI Editor (Done 08/03/2010).
+
+Version 0.5.1
+- Choice of number of words (Delayed until Version 1.1+).
+
+Version 0.6.0
+- Loading into Editor (Done 08/03/2010 as part of Version 0.5.0).
+
+Version 0.6.1 (Done 08/03/2010, just as Version 0.6.0).
+- Full menu system in Editor.
+
+Version 0.6.2
+- Loading into Editor from Main Menu (Done 08/03/2010 as part of 08/03/2010).
+
+
+Version 0.7.0 (a.k.a. 1.0-beta0)
+- Untested, fully working version (Done 08/03/2010).
+
+Version 0.7.1 (a.k.a. 1.0-beta1)
+- Make the Loader stricter (Done 09/03/2010).
+- Better use of Error Messages in the above (Done 09/03/2010).
+
+Version 0.7.2 (a.k.a. 1.0-beta2)
+- Make the Editor stricter (Done 09/03/2010).
+- Better use of Error Messages in the above (Done 09/03/2010).
+
+Version 0.7.3 (a.k.a. 1.0-beta3)
+- 'Good' message when the correct Word is click on (Done 09/03/2010).
+- Implementation of sound in the Game (Done 09/03/2010).
+
+Version 0.7.4 (a.k.a. 1.0-beta4)
+- Proposed final beta version, will be re-tested and if clear of software faults will progress to 1.0.0 (Done 09/03/2010).
+
+
+----------Stable Release----------
+
+Version 1.0.0
+- Tested, fully working stable version (Done 09/03/2010).
+- JavaDoc completed (Done 09/03/2010).
+
+
+-------Development Releases-------
+
+Version 1.1.0
+- Addition of drag & drop editor (Delayed to Version 1.1.1).
+- Preview in editor (Done 10/03/2010).
+- Help topics (Partly Done 10/03/2010).
+- About Window (Done 10/03/2010).
+
+Version 1.1.1
+- Drag & drop Editor (Done 10/03/2010).
+- Drag & drop in Game too (Done 10/03/2010).
+
+Version 1.2.0
+- Font customisation (Delayed).
+
+Version 1.2.1
+- Random font generation (Delayed).
+
+Version 1.3.0
+- Pictorial Version (Done 12/03/2010).
+
+Version 1.4.0
+- Multiple games in a row (Done 12/03/2010).
+
+Version 1.4.1
+- Related words.
+
+Version 1.5.0
+- Interface design for similar games.
+
+Version 1.6.0 (a.k.a. 2.0-beta1)
+- Untested development version
+
+
+----------Stable Release----------
+
+Version 2.0.0
+- Tested, fully working version with advanced features.
+- JavaDoc up to date.
+
+
+-------Development Releases-------
+
+Version 2.1.0
+- Something amazing.

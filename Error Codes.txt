@@ -1,0 +1,18 @@
+Error 01 - Incorrect File Extension
+Error 02 - No File Extension
+Error 03 - File Format Incorrect
+Error 04 - File Does Not Exist
+Error 05 - Unknown Error (should be impossible to get)
+Error 06 - File Already Exists
+Error 07 - File Already Exists but is Formatted Incorrectly
+Error 08 - Word Value is null
+Error 09 - Word Values are equal
+Error 10 - Words are too close
+Error 11 - Position must be a number
+Error 12 - Position cannot be null
+Error 13 - Error loading sound clip
+Error 14 - Unsupported File Type
+Error 15 - Error while loading Input Stream
+Error 16 - Out of bounds!
+Error 17 - No Image File Specified.
+
